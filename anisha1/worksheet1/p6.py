@@ -1,0 +1,6 @@
+a=int(input())
+b=int(input())
+c=int(input())
+print("My first number is:",a)
+print("My second number is:",b)
+print("My third number is:",c)

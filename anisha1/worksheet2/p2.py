@@ -1,0 +1,1 @@
+print("Quality"+" "+"Thought")

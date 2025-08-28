@@ -1,0 +1,1 @@
+print("Raja\tShekhar\nPavan\tSurya")
